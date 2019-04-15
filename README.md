@@ -2,4 +2,4 @@
 
 Gitチュートリアル
 
-foo.bar
+bar
