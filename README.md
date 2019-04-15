@@ -2,4 +2,4 @@
 
 Gitチュートリアル
 
-hogehoge
+foo.bar
