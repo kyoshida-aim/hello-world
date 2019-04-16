@@ -4,4 +4,3 @@ foo
 bar
 hoge
 huga
-test
