@@ -1,6 +1,6 @@
 # hello-world
 
-Git
+Gitのチュートリアル
 
 `foo` `bar`
 
